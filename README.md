@@ -1,47 +1,25 @@
 
-# Google Drive Clone
+# Google Drive — Minimal Front-end Clone
 
-Do you want to see the clone view of a website?
+A small, single-page front-end clone inspired by Google Drive. Built for learning and demo purposes only.
 
-That to one of the google's website. well it's here for you!
+Creator: Dhaval Lalwani
 
-This is a front-end clone website of google drive.
+What you'll find here
+- A clean HTML/CSS mock of the Google Drive UI.
+- Static assets (icons, images, styles) included in this repo.
 
-HAVE A LOOK AT THIS!!!
+Quick links (placeholders)
+- Portfolio: ()
+- LinkedIn: ()
 
-
-## Author
-
-- [@akshay](https://www.github.com/akshay-mudda)
-
-
-## Badges
-
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-
-## Screenshots
-
-![App Screenshot](https://raw.githubusercontent.com/akshay-mudda/Google-Drive-Clone/main/images/Screenshot.jpg)
-
-
-## 🛠 Skills Used
-
+Skills used
 - HTML
-- Materialize CSS
+- CSS
 
-## 🔗 Other Links
+Notes
+- This is not affiliated with Google. It's a personal project to practice layout and UI.
+- If you use or modify this project, please keep the creator credit.
 
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-mudda/)
-
-
-## Feedback
-
-If you have any feedback, please reach out to me at
-
- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://akshay-mudda-portfolio.netlify.app/)
-
-
-## 
-
-![App Screenshot](https://raw.githubusercontent.com/akshay-mudda/Google-Drive-Clone/main/images/T-Rex.gif)
+Screenshots
+See the `images/` folder for screenshots and sample assets.
